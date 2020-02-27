@@ -24,7 +24,6 @@ interests:
 - Applied Microeconomics
 - Urban and Regional Economics
 - Behavioural Economics
-- Economic Geography
 
 
 education: 
