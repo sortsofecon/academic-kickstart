@@ -5,7 +5,7 @@ name = "my_font_set"
 google_fonts = "Exo+2:400,500,700|Titillium+Web:400,400i,700"
 
 # Font families
-heading_font = "Cabin"
+heading_font = "Exo 2"
 body_font = "Titillium Web"
 nav_font = "Titillium Web"
 mono_font = "Titillium Web"
