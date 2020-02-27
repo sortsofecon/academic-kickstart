@@ -2,10 +2,10 @@
 name = "minimal"
 
 # Optional Google font URL
-google_fonts = "Bree+Serif|Titillium+Web:400,600i,700"
+google_fonts = "Titillium+Web|Ubuntu"
 
 # Font families
-heading_font = "Bree Serif"
+heading_font = "Ubuntu"
 body_font = "Titillium Web"
 nav_font = "Titillium Web"
 mono_font = "Titillium Web"
