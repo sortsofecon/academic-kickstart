@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I graduated with an MSc degree last year and is supposed to kick-off my doctoral studies this September. My potential dissertation is about decision-making in international migration. I am also excited to teach some courses in the near future!
+I graduated with an MSc degree last year and is supposed to kick-off my doctoral studies this September. I am excited to teach some courses in the near future!
