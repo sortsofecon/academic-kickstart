@@ -1,5 +1,5 @@
 # Font style metadata
-name = "minimal"
+name = "my_font_set"
 
 # Optional Google font URL
 google_fonts = "Titillium+Web:400,400i,700|Ubuntu:400,500,700"
