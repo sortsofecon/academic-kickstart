@@ -2,7 +2,7 @@
 name = "minimal"
 
 # Optional Google font URL
-google_fonts = "Titillium+Web|Ubuntu"
+google_fonts = "Titillium+Web:400,400i,700|Ubuntu:400,500,700"
 
 # Font families
 heading_font = "Ubuntu"
