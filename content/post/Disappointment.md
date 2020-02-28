@@ -1,7 +1,7 @@
 ```yaml
 ---
-date: 2020-02-29
 title: Great Disappointment
+date: 2020-02-29
 tags: [Daily Talk]
 ---
 ```
