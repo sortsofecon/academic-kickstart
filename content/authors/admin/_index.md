@@ -21,9 +21,10 @@ role: A research rookie
 bio: I am fond of sociopolitical, psychoeconomic and historical issues.
 
 interests:
-- Applied Microeconomics
-- Urban and Regional Economics
-- Behavioural Economics
+- Quantitative Methods (micro-level data)
+- Behavioural and Experimental Economics
+- Urban and Regional Economics (Economic Geography)
+
 
 
 education: 
