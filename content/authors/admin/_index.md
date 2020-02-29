@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-I graduated with an MSc degree last year and is supposed to kick-off my doctoral studies this September. I am excited to teach some courses in the near future!
+I graduated with an MSc degree last year and is supposed to kick-off my doctoral studies this September. If possible, I am also very excited to teach some courses in the near future!
