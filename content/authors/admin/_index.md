@@ -18,12 +18,12 @@ role: A research rookie
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am fond of sociopolitical, psychoeconomic and historical issues.
+bio: I am fond of sociopolitical, psychological, economic as well as historical issues.
 
 interests:
-- Quantitative Methods (micro-level data)
+- Applied Economics
 - Behavioural and Experimental Economics
-- Urban and Regional Economics (Economic Geography)
+- Gender Studies
 
 
 
