@@ -23,7 +23,7 @@ bio: I am fond of sociopolitical, psychological, economic as well as historical 
 interests:
 - Applied Economics
 - Behavioural and Experimental Economics
-- Gender Studies
+- Demographics & Gender
 
 
 
