@@ -1,6 +1,6 @@
 ---
 # Display name
-name: (Andrea) Huaxin
+name: H. (Finley) Wanglu
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: A research rookie
+role: PhD Student
 
 # Organizations/Affiliations
 #organizations: []
@@ -18,20 +18,24 @@ role: A research rookie
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am fond of sociopolitical, psychological, economic as well as historical issues.
+bio: Economics. International Relations. Gender Studies. History.
 
 interests:
-- Applied Economics
+- Applied Microeconomics
 - Behavioural and Experimental Economics
-- Demographics & Gender
+- Health Economics
+- Microfinance
 
 
 
 education: 
   courses: 
+  - course: PhD in Economics and Finance
+    institution: Nova School of Business and Economics
+    year: since 2020
   - course: MSc in Economics
     institution: University of Konstanz
-    year: 2019
+    year: 2016 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I graduated with an MSc degree last year and is supposed to kick-off my doctoral studies this September. If possible, I am also very excited to teach some courses in the near future!
+I graduated with an MSc degree last year and will have kicked off my doctoral studies by this September. If possible, I am also very excited to teach certain undergrad courses in the near future!
