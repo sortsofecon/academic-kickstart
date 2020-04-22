@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I graduated with an MSc degree last year and will have kicked off my doctoral studies by this September. If possible, I am also very excited to teach certain undergrad courses in the near future!
+I graduated with an MSc degree in 2019 and will kick off my doctoral studies in September 2020. If possible, I am also very excited to teach certain undergrad courses in the near future!
