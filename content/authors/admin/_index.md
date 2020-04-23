@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I was born in Shanghai and had stayed in Europe for 2.5 years. I graduated with an MSc degree from the University of Konstanz last year and will kick off my doctoral studies in September 2020. I am very excited to engage in cutting-edge research and, if possible, to teach some undergrad courses in the near future! Cruising around the world and pushing the frontier of knowledge are the coolest things I can imagine.
+I was born in Shanghai and stayed in Europe sine 2016 to 2019. I graduated with an MSc degree from the University of Konstanz last year and will kick off my doctoral studies in September 2020. I am very excited to engage in cutting-edge research and, if possible, to teach some undergrad courses in the near future! Cruising around the world and pushing the frontier of knowledge are the coolest things I can imagine.
