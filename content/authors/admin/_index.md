@@ -24,7 +24,7 @@ interests:
 - Applied Microeconomics
 - Behavioural and Experimental Economics
 - Health Economics
-- Microfinance
+- Corporate finance
 
 
 
