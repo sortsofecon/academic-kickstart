@@ -21,9 +21,8 @@ role: (prospective) PhD Student
 bio: Economics. International Relations. Gender Studies. History.
 
 interests:
-- Applied Microeconomics
+- Applied Microeconomics （e.g. Health / Public / Managerial Economics)
 - Behavioural and Experimental Economics
-- Health Economics
 - Corporate finance
 
 
