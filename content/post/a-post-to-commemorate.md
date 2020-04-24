@@ -1,7 +1,7 @@
 ---
 title: "A Post to Commemorate My PhD Application"
 subtitle: ""
-summary: "Planted an idea in 2016, strived for it since July 2019."
+summary: "Planted an idea in 2016, strived for it since July 2019. I have been never more serious and persistent."
 authors: []
 tags: [Daily Talk]
 categories: []
