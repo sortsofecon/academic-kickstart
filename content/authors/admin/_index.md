@@ -21,7 +21,7 @@ role: (prospective) PhD Student
 bio: Economics. International Relations. Gender Studies. History.
 
 interests:
-- Applied Microeconomics （e.g. Health / Public Economics)
+- Applied Microeconomics 
 - Behavioural and Experimental Economics
 - Corporate finance
 
@@ -29,7 +29,7 @@ interests:
 
 education: 
   courses: 
-  - course: PhD in Economics and Finance
+  - course: PhD in Economics | Finance
     institution: Nova School of Business and Economics
     year: since 2020
   - course: MSc in Economics
