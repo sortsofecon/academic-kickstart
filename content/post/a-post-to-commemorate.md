@@ -19,4 +19,4 @@ Before the universal open call for 2020 intake, I applied to over a hundred empl
 
 Written in 24th April 2020, Shanghai.
 
-![Admission](/static/img/nova_ad.png)
+![Admission](/post/nova_ad.png)
