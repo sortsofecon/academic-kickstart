@@ -32,8 +32,11 @@ education:
   - course: PhD in Economics | Finance
     institution: Nova School of Business and Economics
     year: since 2020
+  - course: Erasmus Exchange
+    institution: University of Essex
+    year: 2018 - 2019
   - course: MSc in Economics
-    institution: University of Konstanz
+    institution: Universität Konstanz
     year: 2016 - 2019
 
 # Social/Academic Networking
