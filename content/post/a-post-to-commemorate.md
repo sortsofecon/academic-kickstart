@@ -5,6 +5,9 @@ summary: ""
 authors: []
 tags: [Daily Talk]
 categories: []
+header:
+  image: "nova_ad.png"
+  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 date: 2020-04-24T02:17:41+08:00
 lastmod: 2020-04-24T02:17:41+08:00
 featured: false
