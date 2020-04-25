@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Girassol|PT+Sans:ital,wght@0,400;0,700;1,400"
+google_fonts = "Girassol|Ubuntu:ital,wght@0,400;0,500;1,400"
 
 # Font families
 heading_font = "Girassol"
-body_font = "PT Sans"
-nav_font = "Righteous"
-mono_font = "PT Sans"
+body_font = "Ubuntu"
+nav_font = "Girassol"
+mono_font = "Ubuntu"
