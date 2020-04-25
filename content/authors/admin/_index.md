@@ -30,7 +30,7 @@ interests:
 education: 
   courses: 
   - course: PhD in Economics | Finance
-    institution: Nova School of Business and Economics, Universidade NOVA de Lisboa 
+    institution: Nova School of Business and Economics 
     year: since 2020
   - course: MSc in Economics
     institution: Universität Konstanz
