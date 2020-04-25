@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Exo+2:400,500,700|Titillium+Web:400,400i,700"
+google_fonts = "Raleway:wght@700|Nunito:ital,wght@0,400;0,700;1,400"
 
 # Font families
-heading_font = "Exo 2"
-body_font = "Titillium Web"
-nav_font = "Titillium Web"
-mono_font = "Titillium Web"
+heading_font = "Raleway"
+body_font = "Nunito"
+nav_font = "Nunito"
+mono_font = "Nunito"
