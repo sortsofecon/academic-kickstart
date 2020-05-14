@@ -23,7 +23,8 @@ bio: Economics. International Relations. Gender Studies. History.
 interests:
 - Applied Microeconomics 
 - Behavioural and Experimental Economics
-- Corporate finance
+- Development Economics
+- Corporate Finance
 
 
 
