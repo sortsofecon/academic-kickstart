@@ -24,15 +24,14 @@ interests:
 - Applied Microeconomics 
 - Behavioural and Experimental Economics
 - Development Economics
-- Corporate Finance
 
 
 
 education: 
   courses: 
-  - course: PhD in Economics | Finance
-    institution: Nova School of Business and Economics 
-    year: since 2020
+#  - course: PhD in Economics | Finance
+#    institution: Nova School of Business and Economics 
+#    year: since 2020
   - course: MSc in Economics
     institution: Universität Konstanz
     year: 2016 - 2019
