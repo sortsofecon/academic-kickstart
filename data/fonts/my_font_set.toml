@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "MuseoModerno|Bitter:ital,wght@0,400;0,700;1,400"
+google_fonts = "Cinzel+Decorative:wght@700|Bitter:ital,wght@0,400;0,700;1,400"
 
 # Font families
-heading_font = "MuseoModerno"
+heading_font = "Cinzel Decorative"
 body_font = "Bitter"
-nav_font = "MuseoModerno"
+nav_font = "Cinzel Decorative"
 mono_font = "Bitter"
