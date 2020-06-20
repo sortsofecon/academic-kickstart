@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: (prospective) PhD Student
+role: Research Assistant of Development Economics
 
 # Organizations/Affiliations
 #organizations: []
@@ -29,7 +29,7 @@ interests:
 
 education: 
   courses: 
-  - course: Research Assistant of Development Economics | Interuniversity PhD Programme in CETIS
+  - course: Interuniversity PhD Programme in CETIS
     institution: Universitat Ramon Llull 
     year: 2020 - 2023 (expected)
   - course: MSc in Economics
