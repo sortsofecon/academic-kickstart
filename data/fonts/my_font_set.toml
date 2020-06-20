@@ -2,7 +2,7 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Fredericka+the+Great|Josefin+Slab:ital,wght@0,600;0,700;1,600"
+google_fonts = "Fredericka+the+Great|Josefin+Slab:ital,wght@0,700;1,600"
 
 # Font families
 heading_font = "Fredericka the Great"
