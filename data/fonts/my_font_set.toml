@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Graduate|Bitter:ital,wght@0,400;0,700;1,400"
+google_fonts = "Fredericka+the+Great|Josefin+Slab:ital,wght@0,400;0,700;1,600"
 
 # Font families
-heading_font = "Graduate"
-body_font = "Bitter"
-nav_font = "Graduate"
-mono_font = "Bitter"
+heading_font = "Fredericka the Great"
+body_font = "Josefin Slab"
+nav_font = "Fredericka the Great"
+mono_font = "Josefin Slab"
