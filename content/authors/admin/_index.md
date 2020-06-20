@@ -29,9 +29,9 @@ interests:
 
 education: 
   courses: 
-#  - course: PhD in Economics | Finance
-#    institution: Nova School of Business and Economics 
-#    year: since 2020
+  - course: Research Assistant of Development Economics | Interuniversity PhD Programme in CETIS
+    institution: Universitat Ramon Llull 
+    year: 2020 - 2023 (expected)
   - course: MSc in Economics
     institution: Universität Konstanz
     year: 2016 - 2019
