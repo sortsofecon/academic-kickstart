@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Cinzel+Decorative:wght@700|Bitter:ital,wght@0,400;0,700;1,400"
+google_fonts = "Graduate|Bitter:ital,wght@0,400;0,700;1,400"
 
 # Font families
-heading_font = "Cinzel Decorative"
+heading_font = "Graduate"
 body_font = "Bitter"
-nav_font = "Cinzel Decorative"
+nav_font = "Graduate"
 mono_font = "Bitter"
