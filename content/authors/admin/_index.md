@@ -30,10 +30,10 @@ interests:
 education: 
   courses: 
   - course: Interuniversity PhD Programme in CETIS
-    institution: Universitat Ramon Llull 
-    year: 2020 - 2023 (expected)
+    institution: Universitat Ramon Llull, Spain 
+    year: 2020 ~
   - course: MSc in Economics
-    institution: Universität Konstanz
+    institution: Universität Konstanz, Germany
     year: 2016 - 2019
 
 # Social/Academic Networking
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I was born in Shanghai and stayed in Europe (Germany & UK) since 2016 to 2019. I graduated with an MSc degree last year and will kick off my PhD in September 2020. I am very excited to engage in cutting-edge research and, if possible, to teach some undergrad courses in the near future! Till now, I have visited 17 countries in Europe and Asia. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can imagine.
+Hi, there! I am Huaxin, an economics PhD student. I was born in Shanghai and moved to Europe since 2016. I graduated with an MSc degree and will kick off my doctoral studies soon. I am so pleased to engage in cutting-edge research and teaching activities. Besides study, I have visited 17 countries in Europe and Asia till now. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can imagine.
