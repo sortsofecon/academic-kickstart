@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant of Development Economics
+role: Research Assistant
 
 # Organizations/Affiliations
 #organizations: []
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Hi, there! I am Huaxin, an economics PhD student. I was born in Shanghai and moved to Europe since 2016. I graduated with an MSc degree and will kick off my doctoral studies soon. I am so pleased to engage in cutting-edge research and teaching activities. Besides study, I have visited 17 countries in Europe and Asia till now. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can imagine.
+Hi, there! I am Huaxin, a PhD student in development economics. I was born in Shanghai and moved to Europe since 2016. I graduated with an MSc degree and will kick off my doctoral studies soon. I am so pleased to engage in cutting-edge research and teaching activities. Besides study, I have visited 17 countries in Europe and Asia till now. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can imagine.
