@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Metamorphous|Josefin+Slab:ital,wght@0,700;1,600"
+google_fonts = "Bitter:ital,wght@0,400;0,700;1,400|Josefin+Slab:ital,wght@0,700;1,600"
 
 # Font families
 heading_font = "Josefin Slab"
-body_font = "Josefin Slab"
+body_font = "Bitter"
 nav_font = "Josefin Slab"
 mono_font = "Josefin Slab"
