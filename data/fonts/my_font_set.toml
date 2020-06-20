@@ -5,7 +5,7 @@ name = "my_font_set"
 google_fonts = "Metamorphous|Josefin+Slab:ital,wght@0,700;1,600"
 
 # Font families
-heading_font = "Metamorphous"
+heading_font = "Josefin Slab"
 body_font = "Josefin Slab"
-nav_font = "Metamorphous"
+nav_font = "Josefin Slab"
 mono_font = "Josefin Slab"
