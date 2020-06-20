@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Girassol|Bitter:ital,wght@0,400;0,700;1,400"
+google_fonts = "MuseoModerno|Bitter:ital,wght@0,400;0,700;1,400"
 
 # Font families
-heading_font = "Girassol"
+heading_font = "MuseoModerno"
 body_font = "Bitter"
-nav_font = "Girassol"
+nav_font = "MuseoModerno"
 mono_font = "Bitter"
