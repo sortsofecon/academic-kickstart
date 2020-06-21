@@ -31,7 +31,7 @@ education:
   courses: 
   - course: Interuniversity PhD Programme in CETIS
     institution: Universitat Ramon Llull, Spain 
-    year: 2020
+    year: since 2020
   - course: MSc in Economics
     institution: Universität Konstanz, Germany
     year: 2016 - 2019
