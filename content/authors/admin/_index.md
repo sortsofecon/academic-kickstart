@@ -22,14 +22,14 @@ bio: Economics. International Relations. Gender Studies. History.
 
 interests:
 - Applied Microeconomics 
-- Behavioural and Experimental Economics
+- Behavioral and Experimental Economics
 - Development Economics
 
 
 
 education: 
   courses: 
-  - course: Interuniversity PhD Programme in CETIS
+  - course: PhD Programme in CETIS
     institution: Universitat Ramon Llull, Spain 
     year: since 2020
   - course: MSc in Economics
