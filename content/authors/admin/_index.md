@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:finley.econphd@gmail.com'  # For a direct email link, use "rookie.researcher@outlook.com".
+  link: 'mailto:huaxin.wanglu@gmail.com'  # For a direct email link, use "rookie.researcher@outlook.com".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
