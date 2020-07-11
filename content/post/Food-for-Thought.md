@@ -19,4 +19,4 @@ While, of course, the survival rates of PhD students at lower-ranked departments
 
 This paper tells both good and bad news. The good news is that non-top departments still produce successful new economists, while even to those who are in a top-ranked program, the likelihood of ultimately being a tenured professor is still not optimistic. Of note is that this paper also finds that students who are identified as top graduates in a given year may not line up with the students whose research productivity is best over the six-year probationary period.
 
-[Access to: https://www.researchgate.net/publication/264626368_The_Research_Productivity_of_New_PhDs_in_Economics_The_Surprisingly_High_Non-Success_of_the_Successful]
+Access to: https://www.researchgate.net/publication/264626368_The_Research_Productivity_of_New_PhDs_in_Economics_The_Surprisingly_High_Non-Success_of_the_Successful
