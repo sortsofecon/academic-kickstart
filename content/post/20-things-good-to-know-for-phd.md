@@ -1,7 +1,7 @@
 ---
 
 title: "20 Things Good to Know for PhDs"
-sbtitle: "Shared by Lucy A. Taylor in Nature Careers Community"
+subtitle: "Shared by Lucy A. Taylor in Nature Careers Community"
 summary: ""
 authors: []
 tags: [Daily Talk]
