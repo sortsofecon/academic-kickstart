@@ -31,13 +31,10 @@ education:
   courses: 
   - course: PhD Programme in CETIS
     institution: Universitat Ramon Llull, Spain 
-    year: since 2020
+    year: (expected) 2023
   - course: MSc in Economics
     institution: Universität Konstanz, Germany
-    year: 2016 - 2019
-  - course: BSc in Insurance
-    institution: Shanghai Lixin University of Accounting and Finance
-    year: 2012 - 2016
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
