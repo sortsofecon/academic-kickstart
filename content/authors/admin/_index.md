@@ -29,7 +29,7 @@ interests:
 
 education: 
   courses: 
-  - course: PhD Programme in CETIS
+  - course: PhD in Economics
     institution: Universitat Ramon Llull, Spain 
     year: (expected) 2023
   - course: MSc in Economics
