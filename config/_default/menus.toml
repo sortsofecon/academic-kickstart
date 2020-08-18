@@ -20,7 +20,7 @@
   
 [[main]]
   name = "Curriculum Vitae"  # A link title for your page.
-  url = "https://www.dropbox.com/s/o0y93j3fyjun7qw/R_CV.pdf?dl=0"  # The URL of your page.
+  url = "https://www.dropbox.com/s/e6upmj6pmj4weal/R_CV.pdf?dl=0"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
 
 
