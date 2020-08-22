@@ -22,9 +22,9 @@ bio: Economics. International Relations. Gender Studies. History.
 
 interests:
 - Applied Microeconomics 
-- Behavioral and Experimental Economics
 - Development Economics
-
+- Behavioral and Experimental Economics
+- Political Economy
 
 
 education: 
