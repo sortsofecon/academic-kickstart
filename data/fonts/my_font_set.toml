@@ -5,7 +5,7 @@ name = "my_font_set"
 google_fonts = "Philosopher:ital,wght@0,400;1,700|PT+Sans:ital,wght@0,400;0,700;1,400|Josefin+Slab:ital,wght@0,700;1,600"
 
 # Font families
-heading_font = "Josefin Slab"
+heading_font = "Philosopher"
 body_font = "Philosopher"
 nav_font = "PT Sans"
-mono_font = "Philosopher"
+mono_font = "Josefin Slab"
