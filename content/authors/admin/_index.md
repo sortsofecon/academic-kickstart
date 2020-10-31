@@ -21,17 +21,16 @@ role: Research Assistant
 bio: Economics. International Relations. Gender Studies. History.
 
 interests:
-- Applied Microeconomics 
 - Development Economics
+- Feminist Economics
 - Behavioral and Experimental Economics
-- Political Economy
 
 
 education: 
   courses: 
   - course: PhD in Economics
     institution: Universitat Ramon Llull, Spain 
-    year: (expected) 2023
+    year: since 09/2020
   - course: MSc in Economics
     institution: Universität Konstanz, Germany
     year: 2019
@@ -69,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Hi, there! I am Huaxin, a PhD student in development economics. I was born in Shanghai and moved to Europe since 2016. I graduated with an MSc degree and will kick off my doctoral studies soon. I am so pleased to engage in cutting-edge research and teaching activities. Besides study, I have visited 17 countries in Europe and Asia. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can imagine.
+Hi, there! I am Huaxin, a PhD student in development economics. I was born in Shanghai and moved to Europe since 2016. I have graduated with an MSc degree and joined IQS School of Management. I am so pleased to engage in cutting-edge research and teaching activities. Besides study, I have visited 17 countries in Europe and Asia. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can imagine.
