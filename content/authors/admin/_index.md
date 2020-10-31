@@ -30,7 +30,7 @@ education:
   courses: 
   - course: PhD in Economics
     institution: Universitat Ramon Llull, Spain 
-    year: since 09/2020
+    year: since 2020
   - course: MSc in Economics
     institution: Universität Konstanz, Germany
     year: 2019
