@@ -25,7 +25,7 @@ In March, I got accepted to a PhD program in the US. While I was requested to pr
 
 As time goes by, I was admitted to another PhD program at Nova SBE in April. To be honest, it is one of my favorite business schools in Europe since I love Lisbon pretty much! The size and internationalization of its faculty attracted me to apply, but due to the Portuguese agency changed its funding rules, no scholarship can be granted to any candidate except for a 90% tuition waive this year. I am still happy with this result since there are alternative opportunities for candidates to be funded, even though I thought I desired a scholarship to prove to myself that I am competent.
 
-My referee told me that as the global economy had been entering a recession, I had better accept one of them. While in the interim, I decided to give myself one last try. I sent out my application to a research group based in Barcelona before I finally confirmed my attendance to Nova. Though I feel sorry for Nova, money matters a lot. Being economically independent makes me feel much better!!!
+My referee told me that as the global economy had been entering a recession, I had better accept one of them. While in the interim, I decided to give myself one last try. I sent out my application to a research group based in Barcelona whose research focus is on the Chinese Economy before I finally confirmed my attendance to Nova. Though I feel sorry for Nova, money matters a lot. Being economically independent makes me feel much better!!!
 
 When writing down the timeline here, I am quite proud of my perseverance in the face of overwhelming unpleasant results since last year - either rejection or no funding. Hopefully, everything goes well and I can receive my work authorization soon.
 
