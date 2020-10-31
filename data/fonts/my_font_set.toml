@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Philosopher:ital,wght@0,400;1,700|PT+Sans:ital,wght@0,400;0,700;1,400|Josefin+Slab:ital,wght@0,700;1,600"
+google_fonts = "Miriam+Libre:wght@400;700|Philosopher:ital,wght@0,400;1,700|PT+Sans:ital,wght@0,400;0,700;1,400|Josefin+Slab:ital,wght@0,700;1,600"
 
 # Font families
 heading_font = "Philosopher"
-body_font = "Philosopher"
+body_font = "Miriam Libre"
 nav_font = "PT Sans"
 mono_font = "Josefin Slab"
