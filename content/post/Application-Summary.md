@@ -27,7 +27,7 @@ As time goes by, I was admitted to another PhD program at Nova SBE in April. To 
 
 My referee told me that as the global economy had been entering a recession, I had better accept one of them. While in the interim, I decided to give myself one last try. I sent out my application to a research group based in Barcelona whose research focus is on the Chinese Economy before I finally confirmed my attendance to Nova. Though I feel sorry for Nova, money matters a lot. Being economically independent makes me feel much better!!!
 
-When writing down the timeline here, I am quite proud of my perseverance in the face of overwhelming unpleasant results since last year - either rejection or no funding. Hopefully, everything goes well and I can receive my work authorization soon.
+Now I can say I am proud of my perseverance. Hopefully, everything goes well and I can receive my work authorization soon.
 
 
 Mark: 21 June, 2020. Shanghai.
