@@ -18,11 +18,11 @@ role: Research Assistant
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Economics. International Relations. Gender Studies. History.
+bio: Economics. Gender Studies. History.
 
 interests:
 - Development Economics
-- Feminist Economics
+- Urban Economics
 - Behavioral and Experimental Economics
 
 
