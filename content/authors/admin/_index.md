@@ -35,6 +35,9 @@ education:
   - course: MSc in Economics
     institution: Universität Konstanz, Germany
     year: 2019
+  - course: Bachelor in Insurance
+    institution: Shanghai Lixin Univ of Accounting & Finance, China
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
