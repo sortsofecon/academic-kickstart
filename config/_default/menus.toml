@@ -20,7 +20,7 @@
   
 [[main]]
   name = "Curriculum Vitae"  # A link title for your page.
-  url = "files/R_CV.pdf"  # The URL of your page.
+  url = "files/Template1.pdf"  # The URL of your page.
   weight = 70  # The position of your page in the menu.
 
 
