@@ -23,7 +23,6 @@ bio: Economics. Gender Studies. History.
 interests:
 - Applied Microeconomics
 - Development Economics
-- Urban Economics
 - Behavioral Economics
 
 
