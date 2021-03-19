@@ -24,7 +24,7 @@ interests:
 - Applied Microeconomics
 - Development Economics
 - Urban Economics
-- Behavioral and Experimental Economics
+- Behavioral Economics
 
 
 education: 
