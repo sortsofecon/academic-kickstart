@@ -18,7 +18,7 @@ role: Research Assistant
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Economics. Gender Studies. History.
+bio: Bad memory & Poor sense of direction.
 
 interests:
 - Applied Microeconomics
