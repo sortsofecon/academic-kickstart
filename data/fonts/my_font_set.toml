@@ -5,7 +5,7 @@ name = "my_font_set"
 google_fonts = "Miriam+Libre:wght@400;700|Crimson+Pro:ital,wght@0,400;0,600;1,400;1,600|Titillium+Web:ital,wght@0,400;0,600;1,400|Josefin+Slab:ital,wght@0,700;1,600"
 
 # Font families
-heading_font = "Crimson+Pro"
-body_font = "Crimson+Pro"
-nav_font = "Titillium+Web"
+heading_font = "Crimson Pro"
+body_font = "Crimson Pro"
+nav_font = "Titillium Web"
 mono_font = "Josefin Slab"
