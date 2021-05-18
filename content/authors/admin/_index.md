@@ -18,7 +18,7 @@ role: PhD Student | Research Assistant
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Poor memory & sense of direction.
+bio: A nostalgist.
 
 interests:
 - Applied Microeconomics
