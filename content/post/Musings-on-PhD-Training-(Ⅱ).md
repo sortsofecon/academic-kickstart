@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Musings on PhD Training (Ⅱ)"
+title: "Musings on PhD Training (2)"
 subtitle: ""
 summary: ""
 authors: []
