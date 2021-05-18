@@ -32,4 +32,4 @@ It has been almost two years since I built up my first own website. In May 2018,
 
 
 
-Hereby, written on 27 Feb 2020, Shanghai.
+Hereby, wrote on 27 Feb 2020, Shanghai.
