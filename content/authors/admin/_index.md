@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at Universitat Ramon Llull (Barcelona). I was born in Shanghai and moved to Europe since 2016. I am now working on a research project funded by the Marie Skłodowska-Curie actions, with a particular focus on identifying development traps in China. Besides research, I love writing novels and traveling. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can imagine. Cheers!
+I am a PhD student at Universitat Ramon Llull (Barcelona). I was born in Shanghai and moved to Europe since 2016. I am now working on a research project under the Marie Sklodowska-Curie grant, with a particular focus on examining development traps in China. Besides research, I love writing novels and traveling. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can imagine. Cheers!
