@@ -1,5 +1,5 @@
 ---
-title: "What Research Changes Me?"
+title: "How Research Changes Me?"
 sbtitle: ""
 summary: ""
 authors: []
