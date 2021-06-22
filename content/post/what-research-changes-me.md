@@ -18,4 +18,4 @@ I have become much more confident over the past year. Again, what changed me? Th
 
 All of these processes are new rounds of learning. Just keep working and plan ahead!
 
-Hereby, wrote on 22 June 2021, Barcelona.
+Hereby, wrote on 22nd June 2021, Barcelona.
