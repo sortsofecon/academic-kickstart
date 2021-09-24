@@ -12,7 +12,7 @@ draft: false
 
 
 ---
-![Instituto Químico de Sarriá](/IQS.jpeg)
+![Instituto Químico de Sarriá](/img/IQS.jpeg)
 
 I am a lazy person, honestly. I loved playing PC games (since I was 8), chatting online, reading fantasy novels, strolling around the streets and shopping, but seldom had fun with study. Perhaps, study per se is never an enjoyable thing in nature since we have to keep dealing with our ignorance during that process. I am not a good student and none of my teachers had ever said I was. I never studied proactively nor diligently. “Average” is my motto. I never expected that one day, the best life status in my mind would be “keep learning till the death”. I disliked learning, as I said. It is amazing, right? 
 
