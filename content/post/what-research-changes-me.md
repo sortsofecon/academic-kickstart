@@ -12,6 +12,8 @@ draft: false
 
 
 ---
+![Instituto Químico de Sarriá](/IQS.jpeg)
+
 I am a lazy person, honestly. I loved playing PC games (since I was 8), chatting online, reading fantasy novels, strolling around the streets and shopping, but seldom had fun with study. Perhaps, study per se is never an enjoyable thing in nature since we have to keep dealing with our ignorance during that process. I am not a good student and none of my teachers had ever said I was. I never studied proactively nor diligently. “Average” is my motto. I never expected that one day, the best life status in my mind would be “keep learning till the death”. I disliked learning, as I said. It is amazing, right? 
 
 When I look backward and consider what changed me, it might be the first day when I found formulas are not merely numbers and symbols, numbers are not merely mathematics, and mathematics is not merely algorithms. Intuitions behind models enlightened me, not immediately, but rather gradually and profoundly. I am not a talented guy who can be steadfast from the first day of being exposed to academics. Instead, my experience was quite tough and twisting. From hardly opening my mouth to speak English when I needed to take an IELTS exam to understanding almost nothing in the lecture of Advanced Econometrics, I always instinctively hoped to escape whenever I found myself having to step outside the comfort zone to take on a new challenge. Although I successfully moved on, my inclination to not have another attempt determined that I would never proactively seek opportunities to enrich myself. 
