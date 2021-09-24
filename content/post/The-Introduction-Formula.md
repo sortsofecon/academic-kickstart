@@ -12,7 +12,7 @@ draft: false
 
 
 ---
-Have just found a really good post written by Prof. Keith Head in his Blog at http://blogs.ubc.ca/khead/research/research-advice/formula:
+Have just found a really good post written by Prof. Keith Head in his Blog at http://blogs.ubc.ca/khead/research/research-advice/formula
 
 > 1. Hook: Attract the reader’s interest by telling them that this paper relates to something interesting. What makes a topic interesting? Some combination of the following attributes makes Y something worth looking at.
 > - Y matters: When Y rises or falls, people are hurt or helped.
