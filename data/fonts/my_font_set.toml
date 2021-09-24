@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Gowun+Batang:wght@400;700|Miriam+Libre:wght@400;700|Overlock:ital,wght@0,400;0,700;1,400;1,700|Titillium+Web:ital,wght@0,400;0,600;1,400|Josefin+Slab:ital,wght@0,700;1,600"
+google_fonts = "Noto+Serif+Display:ital,wght@0,400;0,600;1,400;1,600|Miriam+Libre:wght@400;700|Overlock:ital,wght@0,400;0,700;1,400;1,700|Titillium+Web:ital,wght@0,400;0,600;1,400|Josefin+Slab:ital,wght@0,700;1,600"
 
 # Font families
 heading_font = "Overlock"
-body_font = "Gowun Batang"
+body_font = "Noto Serif Display"
 nav_font = "Titillium Web"
 mono_font = "Josefin Slab"
