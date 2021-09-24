@@ -70,4 +70,3 @@ user_groups:
 
 I am a PhD candidate at IQS School of Management, Universitat Ramon Llull. I was born in Shanghai and moved to Europe since 2016. I am now working on a MSCA-funded project with a focus on examining development traps in China. My current research agenda gazes at migration, child development and capability approach. I am interested in all sorts of theories and topics on decision-making and well-being. Beyond research, I love writing novels and travel. Cruising around the world and pushing the frontiers of knowledge are the coolest things I could think. Here is the zone where I reposit some musings and share my research.
 
-#   Set this to `[]` or comment out if you are not using People widget.
