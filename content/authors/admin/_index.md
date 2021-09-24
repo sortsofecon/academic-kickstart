@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate at lnstitut Químic de Sarrià, Universitat Ramon Llull. I was born in Shanghai and moved to Europe since 2016. I am now working on a MSCA-funded project with a focus on examining development traps in China. My current research agenda gazes at migration, human capital, capabilities approach and well-being. Beyond research, I love writing novels and travel. Cruising around the world and pushing the frontiers of knowledge are the coolest things in my life. Big pleasure to meet you here!
+I am a PhD candidate at IQS School of Management, Universitat Ramon Llull. I was born in Shanghai and moved to Europe since 2016. I am now working on a MSCA-funded project with a focus on examining development traps in China. My current research agenda gazes at migration, human capital, capabilities approach and well-being. Beyond research, I love writing novels and travel. Cruising around the world and pushing the frontiers of knowledge are the coolest things in my life. Big pleasure to meet you here!
