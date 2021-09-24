@@ -6,6 +6,6 @@ google_fonts = "Brygada+1918:ital,wght@0,400;0,500;1,400;1,500&family=Inter&fami
 
 # Font families
 heading_font = "Overlock"
-body_font = "Brygada+1918"
+body_font = "Brygada 1918"
 nav_font = "Titillium Web"
 mono_font = "Josefin Slab"
