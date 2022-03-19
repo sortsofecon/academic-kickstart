@@ -23,7 +23,6 @@ bio: A nostalgist.
 interests:
 - Applied Microeconomics
 - Development Economics
-- Behavioral Economics
 
 
 education: 
@@ -68,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate at IQS School of Management, Universitat Ramon Llull. I was born in Shanghai and moved to Europe since 2016. I am now working on a MSCA-funded project with a focus on examining development traps in China. My current research agenda gazes at migration, child development and capability approach. I am interested in all sorts of theories and topics on decision-making and well-being. Beyond research, I love writing novels and travel. Cruising around the world and pushing the frontiers of knowledge are the coolest things I could think. Here is the zone where I reposit some musings and share my research.
+I am a PhD candidate at IQS School of Management, Universitat Ramon Llull. I was born in Shanghai and moved to Europe since 2016. I am now working on a MSCA-funded project and researching labor migration, child development, and well-being, among others. I have also taught Econometrics in winter 2022. In my spare time, I like writing novels and excursion. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can figure out. Here is a space where I deposit some musings and share my research.
 
