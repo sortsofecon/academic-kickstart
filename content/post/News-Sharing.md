@@ -3,7 +3,7 @@ title: "News Sharing: Being 1 of 13 Scholarship Receivers of SEBAP 2021--2022"
 sbtitle: ""
 summary: ""
 authors: []
-tags: [Daily Talk]
+tags: [News]
 categories: []
 date: 2022-03-29
 lastmod: 2022-04-15
