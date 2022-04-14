@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Huaxin
+name: Huaxin Wang-Lu
 
 # Username (this should match the folder name)
 authors:
