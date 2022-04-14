@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate at IQS School of Management, Universitat Ramon Llull. I was born in Shanghai and moved to Europe since 2016. I am now working on a MSCA-funded project and researching labor migration, child development, and well-being, among others. I have also taught Econometrics in winter 2022. In my spare time, I like writing novels and excursion. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can figure out. Here is a space where I deposit some musings and share my work.
+I am a PhD candidate at IQS SM, Universitat Ramon Llull. I was born in Shanghai and moved to Europe since 2016. I am now working on a MSCA-funded project and researching labor migration, child development, and well-being, among others. I have also taught Econometrics in winter 2022. In my spare time, I like writing novels and excursion. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can figure out. Here is a space where I deposit some musings and share my work.
 
