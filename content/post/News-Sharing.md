@@ -1,5 +1,5 @@
 ---
-title: "News Sharing: Being 1 of 13 Scholarship Receivers of SEBAP 2021-2022"
+title: "News Sharing: Being 1 of 13 Scholarship Receivers in SEBAP 2021-2022"
 sbtitle: ""
 summary: ""
 authors: []
