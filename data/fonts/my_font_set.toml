@@ -8,4 +8,4 @@ google_fonts = "Graduate|Roboto+Serif:ital,wght@0,400;0,600;1,400;1,600|Playfair
 heading_font = "Playfair Display"
 body_font = "Merriweather"
 nav_font = "Graduate"
-mono_font = "Josefin Slab"
+mono_font = "Playfair Display"
