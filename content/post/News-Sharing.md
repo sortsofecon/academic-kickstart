@@ -14,7 +14,7 @@ I am glad to share a piece of news posted in my university's website, "IQS Docto
 
 > Huaxin Wanglu has earned the Beca Societat Econòmica Barcelonesa d’Amics del País (Barcelona Economics Society Friends of the Country Grant) which was awarded at the Amics del País awards ceremony, held on 29 March at the Barcelona City Council's iconic Saló de Cent conference hall.
 > 
-> Huaxin has been studying labour mobility and child development in China under Dr Octasiano Valerio Mendoza and Dr Flavio Comim at the IQS School of Management. She is a member of the Social Economics and Ethics (SEE) Research Group and has contributed to the projects H2020-CHINEQUALJUSTICE and EIN2019-102931 funded by the European Commission and the Ministry of Science and Innovation, respectively.
+> Huaxin has been studying labour mobility and child development in China under Dr. Octasiano Valerio Mendoza and Dr. Flavio Comim at the IQS School of Management. She is a member of the Social Economics and Ethics (SEE) Research Group and has contributed to the projects H2020-CHINEQUALJUSTICE and EIN2019-102931 funded by the European Commission and the Ministry of Science and Innovation, respectively.
 > 
 > Her research provides relevant information and policy implications for understanding migration decisions based on structural changes in employment and also how parents’ values and perceptions affect their children's academic development.
 > 
