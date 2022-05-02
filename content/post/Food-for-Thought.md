@@ -13,7 +13,7 @@ draft: false
 
 ---
 
-I have read an insightful article today (Conley, J. P., & Önder, A. S., 2014). The authors investigated publication records of PhD graduates in economics from the US and Canadian institutions, studying the relationships between programs of various ranks and research outcomes of the students in the six years after graduation. One of the intriguing findings is that although top departments like Harvard or MIT were better at training top students, the middle- or lower-level students underperformed their counterparts at certain lower-ranked departments. Yet the survival rate of PhD students of either the completion of PhD or gaining tenure at lower-ranked departments is much lower.
+I have read an insightful article today (Conley, J. P., & Önder, A. S., 2014). The authors investigated publication records of PhD graduates in economics from the US and Canadian institutions, studying the relationships between programs of various ranks and research outcomes of the students in the six years after graduation. One of the intriguing findings is that although top departments like Harvard or MIT were better at training top students, the middle- or lower-level students underperformed their counterparts at certain lower-ranked departments. Yet the survival rate of either the completion of PhD or gaining tenure of PhD students at lower-ranked departments is much lower.
 
 The authors also discussed why that for top-ranked departments that were dominant in selecting best candidates, they still produced a considerable cohort who failed to meet tenure standards and is, in fact, zero in the number of AER-equivalent papers.
 
