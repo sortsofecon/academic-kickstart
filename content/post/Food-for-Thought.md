@@ -17,6 +17,6 @@ I have read an insightful article today (Conley, J. P., & Önder, A. S., 2014). 
 
 The authors also discussed why that for top-ranked departments that were dominant in selecting best candidates, they still produced considerable students who failed to meet tenure standards and is zero in the number of AER-equivalent papers for the mass.
 
-The paper tells both good and bad news. The good news is that non-top departments still produced successful new economists, while even for those in top-ranked programs, the likelihood of being a tenured professor is not that optimistic.
+The paper tells both good and bad news. The good news is that non-top departments still produced successful new economists, while even for those in top-ranked programs, the likelihood of being a tenured professor eventually is not that optimistic.
 
 Note: 11th July 2020, Shanghai.
