@@ -1,5 +1,5 @@
 ---
-title: "Food for Thought: Academic Job Searching"
+title: "Article Sharing: Academic Job Searching"
 sbtitle: ""
 summary: ""
 authors: []
@@ -13,10 +13,10 @@ draft: false
 
 ---
 
-Have just read an insightful article published by the Journal of Economic Perspectives, i.e. Conley, J. P., & Önder, A. S. (2014), which is instructive to me. They explore the publication records of PhD graduates in economics from the US and Canadian academic institutions to study the relationships between programs of various ranks and the research outcomes of their students in the six years after graduation. One of their intriguing findings is that although top departments like Harvard or MIT are better at training top students, the middle- or lower-level students underperformed their counterparts of equal percentile ranks at certain lower-ranked departments. This story sounds like an old saying: better be the head of a dog than the tail of a lion.
+I have read an insightful article today (Conley, J. P., & Önder, A. S., 2014). The authors investigated publication records of PhD graduates in economics from the US and Canadian institutions, studying the relationships between programs of various ranks and research outcomes of the students in the six years after graduation. One of the intriguing findings is that although top departments like Harvard or MIT were better at training top students, the middle- or lower-level students underperformed their counterparts of equal percentile ranks at certain lower-ranked departments. Yet the survival rate of PhD students at lower-ranked departments regarding either the completion of PhD or gaining tenure is much lower.
 
-While, of course, the survival rates of PhD students at lower-ranked departments in regard to whatever completing their PhD or gaining tenure are much lower. The researchers discuss why it would happen to top-ranked departments that even they are dominant in selecting the best candidates, they still produce a considerable cohort of students who fail to meet a tenure standard and is in fact zero in the number of AER-equivalent papers in most.
+The authors also discussed why that for top-ranked departments that were dominant in selecting best candidates, they still produced a considerable cohort who failed to meet tenure standards and is, in fact, zero in the number of AER-equivalent papers.
 
-This paper tells both good and bad news. The good news is that non-top departments still produce successful new economists, while even to those who are in a top-ranked program, the likelihood of ultimately being a tenured professor is still not optimistic. Of note is that this paper also finds that students who are identified as top graduates in a given year may not line up with the students whose research productivity is the best over the six-year probationary period.
+The paper tells both good and bad news. The good news is that non-top departments still produced successful new economists, while even for those in top-ranked programs, the likelihood of being a tenured professor is not that optimistic.
 
-Hereby, wrote on 11th July 2020, Shanghai.
+Note: 11th July 2020, Shanghai.
