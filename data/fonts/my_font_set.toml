@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Graduate|Roboto+Serif:ital,wght@0,400;0,600;1,400;1,600|Playfair+Display:ital,wght@0,600;0,700;1,600;1,700|Merriweather:ital,wght@0,400;0,700;1,400"
+google_fonts = "Alegreya+Sans+SC|Graduate|Roboto+Serif:ital,wght@0,400;0,600;1,400;1,600|Playfair+Display:ital,wght@0,600;0,700;1,600;1,700|Merriweather:ital,wght@0,400;0,700;1,400"
 
 # Font families
 heading_font = "Playfair Display"
 body_font = "Merriweather"
-nav_font = "Graduate"
+nav_font = "Alegreya Sans SC"
 mono_font = "Playfair Display"
