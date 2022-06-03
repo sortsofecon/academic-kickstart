@@ -1,4 +1,13 @@
 ---
+---
+# Generate Wowchemy CMS
+type: wowchemycms
+private: true
+outputs:
+  - wowchemycms_config
+  - HTML
+---
+
 # Display name
 name: Huaxin Wang-Lu
 
