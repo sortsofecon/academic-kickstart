@@ -1,12 +1,4 @@
 ---
-# Generate Wowchemy CMS
-type: wowchemycms
-private: true
-outputs:
-  - wowchemycms_config
-  - HTML
----
-
 # Display name
 name: Huaxin Wang-Lu
 
@@ -16,6 +8,13 @@ authors:
 
 # Is this the primary user of the site?
 superuser: true
+
+# Generate Wowchemy CMS
+type: wowchemycms
+private: true
+outputs:
+  - wowchemycms_config
+  - HTML
 
 # Role/position
 role: PhD Candidate | Research Assistant
